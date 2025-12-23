@@ -72,12 +72,6 @@ Contributions to improve the project are welcome. Please follow these steps to c
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## Contact
-
-- **Project Maintainer**: Ankit Sharma
-- **Email**: Ankitraj.84060@gmail.com
-- **LinkedIn**: [Ankit Sharma](https://www.linkedin.com/in/ankitrajsh)
-
 ## Acknowledgments
 
 - TMDB for providing the dataset.
